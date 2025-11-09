@@ -1,4 +1,60 @@
-# 🧠 Awesome LLM Survey Papers
+# 🧠 Awesome AI Survey Papers
+
+A comprehensive and up-to-date collection of **survey and review papers** on **Large Language Models (LLMs)** and their related domains.  
+This repository organizes 100+ papers into structured categories like prompting, fine-tuning, multimodality, reasoning, RAG, agents, evaluation, safety, and domain-specific applications.
+
+📚 Whether you're a **researcher**, **data scientist**, or **LLM engineer**, this repo provides a one-stop reference to understand the *state of the art* and *research directions* in the LLM ecosystem.
+
+---
+
+## 🔍 Contents
+- 🚀 General Overviews  
+- 💡 Prompting & In-Context Learning  
+- ⚙️ Small Language Models (SLMs)  
+- 🖼️ Multimodal & Multilingual LLMs  
+- 🧩 Data, Post-Training, and Fine-Tuning  
+- ⚡ Inference & Architectures  
+- 🧠 Reasoning, RAG & Agents  
+- 💭 Hallucination, Fairness & Safety  
+- 🧮 Synthetic Data & Evaluation  
+- 🧭 Domain-Specific LLMs  
+
+---
+
+## 🧾 Features
+- 📂 **Single unified Markdown table** with all papers  
+- 🧩 **Categorized by research theme** with clear emoji labels  
+- 🔗 **Direct links to arXiv papers**  
+- 🔄 Continuously updated with new publications  
+- 🧠 **Ideal for literature reviews, thesis research, and ML roadmaps**
+
+---
+
+## 🤝 Contributing
+If you discover new survey papers related to LLMs, please:
+1. Open an issue with the title and link, **or**
+2. Submit a pull request adding it to the unified table under the right category.
+
+All contributions are welcome! 🌟  
+
+---
+
+## ⭐ Acknowledgements
+Inspired by awesome lists like:
+- [Awesome AI Papers](https://github.com/dair-ai/awesome-ai-papers)  
+- [Papers with Code](https://paperswithcode.com)  
+
+---
+
+### 🔖 Tags
+`LLMs` · `Survey Papers` · `Prompt Engineering` · `Fine-tuning` · `RAG` · `Agents` · `AI Safety` · `Reasoning` · `Evaluation` · `Research`
+
+---
+
+> 📢 *Maintained by the AI/ML research community to map the landscape of LLM knowledge.*
+
+
+# 🧠 Awesome AI Survey Papers
 
 | 🏷️ Category | 📄 Paper Title | 🔗 Link |
 |--------------|---------------|---------|
